@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/barovian-calendar/static/css/main.4759191d.css",
+    "main.js": "/barovian-calendar/static/js/main.d6207720.js",
+    "index.html": "/barovian-calendar/index.html",
+    "main.4759191d.css.map": "/barovian-calendar/static/css/main.4759191d.css.map",
+    "main.d6207720.js.map": "/barovian-calendar/static/js/main.d6207720.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4759191d.css",
+    "static/js/main.d6207720.js"
+  ]
+}
